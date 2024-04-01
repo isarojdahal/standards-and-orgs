@@ -2,10 +2,8 @@
 
 1. POSIX : IEEE
 
-# Programming Languages:
+# Web, Programming Languages & APIs:
 
 1. JavaScript : EcmaInternational
-
-# Web:
-
-1. HTML,CSS,JS,Web Assembly : W3C
+2. HTML,CSS,JS,Web Assembly : W3C
+3. Browser API (such as console, Notifications, etc.) : WHATWG
